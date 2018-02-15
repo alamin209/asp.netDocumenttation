@@ -1,0 +1,20 @@
+Create Procedure Getcontinant 
+as
+Begin
+select ContinantId,ContinantName from dbo.ContinanatName;
+End
+
+Create Procedure GetCountry 
+@countryId int 
+as
+Begin
+select CountryId,CountryName, ContinantId from dbo.CountryName
+where ContinantId=@countryId
+End
+Create Procedure Getcity 2
+@cityId int 
+as
+Begin
+select CityId,CityName, CountryId from dbo.CityName
+where CountryId=@cityId
+End
