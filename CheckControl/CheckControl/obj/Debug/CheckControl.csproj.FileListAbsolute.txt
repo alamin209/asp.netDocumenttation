@@ -4,3 +4,9 @@ c:\users\alamin\documents\visual studio 2013\Projects\CheckControl\CheckControl\
 c:\users\alamin\documents\visual studio 2013\Projects\CheckControl\CheckControl\obj\Debug\CheckControl.csprojResolveAssemblyReference.cache
 c:\users\alamin\documents\visual studio 2013\Projects\CheckControl\CheckControl\obj\Debug\CheckControl.dll
 c:\users\alamin\documents\visual studio 2013\Projects\CheckControl\CheckControl\obj\Debug\CheckControl.pdb
+C:\Users\alamin\Documents\Visual Studio 2013\Projects\asp.netDocumenttation\CheckControl\CheckControl\bin\CheckControl.dll.config
+C:\Users\alamin\Documents\Visual Studio 2013\Projects\asp.netDocumenttation\CheckControl\CheckControl\bin\CheckControl.dll
+C:\Users\alamin\Documents\Visual Studio 2013\Projects\asp.netDocumenttation\CheckControl\CheckControl\bin\CheckControl.pdb
+C:\Users\alamin\Documents\Visual Studio 2013\Projects\asp.netDocumenttation\CheckControl\CheckControl\obj\Debug\CheckControl.csprojResolveAssemblyReference.cache
+C:\Users\alamin\Documents\Visual Studio 2013\Projects\asp.netDocumenttation\CheckControl\CheckControl\obj\Debug\CheckControl.dll
+C:\Users\alamin\Documents\Visual Studio 2013\Projects\asp.netDocumenttation\CheckControl\CheckControl\obj\Debug\CheckControl.pdb

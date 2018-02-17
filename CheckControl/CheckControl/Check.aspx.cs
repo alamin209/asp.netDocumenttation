@@ -34,12 +34,12 @@ namespace CheckControl
                     Response.Write(li.Text + "<br/>");
                     Response.Write(li.Value + "<br/>");
 
-                
+
                 }
 
-             
 
-            
+
+
             }
 
 
@@ -47,28 +47,58 @@ namespace CheckControl
 
         protected void Button2_Click(object sender, EventArgs e)
         {
-             foreach (ListItem li in CheckBoxList1.Items)
-                {
+            foreach (ListItem li in CheckBoxList1.Items)
+            {
 
-                    li.Selected = true;
-                
-                
-                }
+                li.Selected = true;
+
+
+            }
         }
 
         protected void Button3_Click(object sender, EventArgs e)
         {
-             foreach (ListItem li in CheckBoxList1.Items)
-                {
+            foreach (ListItem li in CheckBoxList1.Items)
+            {
 
-                    li.Selected = false;
-                
-                
-                }
+                li.Selected = false;
+
+
+            }
         }
 
+        protected void Button4_Click(object sender, EventArgs e)
+        {
+            //if (CheckBoxList2.SelectedIndex != -1) single 
+            //{
+
+            //    Response.Write("Text=" + CheckBoxList2.SelectedItem.Text + "<br/>");
+            //    Response.Write("Text=" + CheckBoxList2.SelectedItem.Value + "<br/>");
+            //    Response.Write("Text=" + CheckBoxList2.SelectedIndex.ToString() + "<br/>");
 
 
+            //}
 
+
+         //now multipul
+
+            foreach( ListItem li  in   CheckBoxList2.Items )
+            {
+                if (li.Selected)
+                {
+
+                    Response.Write("Text=" + CheckBoxList2.SelectedItem.Text + "<br/>");
+                    Response.Write("Text=" + CheckBoxList2.SelectedItem.Value + "<br/>");
+                    Response.Write("Text=" + CheckBoxList2.SelectedIndex.ToString() + "<br/>");
+                    Response.Write("........................." + "<br/>");
+                
+                }
+            
+            
+            }
+
+        }
     }
+
+    
 }
