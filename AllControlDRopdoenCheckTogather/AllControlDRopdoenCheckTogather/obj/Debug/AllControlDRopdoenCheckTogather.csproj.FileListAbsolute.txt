@@ -1,0 +1,6 @@
+c:\users\alamin\documents\visual studio 2013\Projects\AllControlDRopdoenCheckTogather\AllControlDRopdoenCheckTogather\bin\AllControlDRopdoenCheckTogather.dll.config
+c:\users\alamin\documents\visual studio 2013\Projects\AllControlDRopdoenCheckTogather\AllControlDRopdoenCheckTogather\bin\AllControlDRopdoenCheckTogather.dll
+c:\users\alamin\documents\visual studio 2013\Projects\AllControlDRopdoenCheckTogather\AllControlDRopdoenCheckTogather\bin\AllControlDRopdoenCheckTogather.pdb
+c:\users\alamin\documents\visual studio 2013\Projects\AllControlDRopdoenCheckTogather\AllControlDRopdoenCheckTogather\obj\Debug\AllControlDRopdoenCheckTogather.csprojResolveAssemblyReference.cache
+c:\users\alamin\documents\visual studio 2013\Projects\AllControlDRopdoenCheckTogather\AllControlDRopdoenCheckTogather\obj\Debug\AllControlDRopdoenCheckTogather.dll
+c:\users\alamin\documents\visual studio 2013\Projects\AllControlDRopdoenCheckTogather\AllControlDRopdoenCheckTogather\obj\Debug\AllControlDRopdoenCheckTogather.pdb
