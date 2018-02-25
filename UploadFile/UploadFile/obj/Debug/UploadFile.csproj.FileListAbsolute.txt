@@ -1,0 +1,6 @@
+c:\users\alamin\documents\visual studio 2013\Projects\UploadFile\UploadFile\bin\UploadFile.dll.config
+c:\users\alamin\documents\visual studio 2013\Projects\UploadFile\UploadFile\bin\UploadFile.dll
+c:\users\alamin\documents\visual studio 2013\Projects\UploadFile\UploadFile\bin\UploadFile.pdb
+c:\users\alamin\documents\visual studio 2013\Projects\UploadFile\UploadFile\obj\Debug\UploadFile.csprojResolveAssemblyReference.cache
+c:\users\alamin\documents\visual studio 2013\Projects\UploadFile\UploadFile\obj\Debug\UploadFile.dll
+c:\users\alamin\documents\visual studio 2013\Projects\UploadFile\UploadFile\obj\Debug\UploadFile.pdb
