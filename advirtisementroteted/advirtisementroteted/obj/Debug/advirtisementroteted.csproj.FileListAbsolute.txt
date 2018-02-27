@@ -1,0 +1,6 @@
+c:\users\alamin\documents\visual studio 2013\Projects\advirtisementroteted\advirtisementroteted\bin\advirtisementroteted.dll.config
+c:\users\alamin\documents\visual studio 2013\Projects\advirtisementroteted\advirtisementroteted\bin\advirtisementroteted.dll
+c:\users\alamin\documents\visual studio 2013\Projects\advirtisementroteted\advirtisementroteted\bin\advirtisementroteted.pdb
+c:\users\alamin\documents\visual studio 2013\Projects\advirtisementroteted\advirtisementroteted\obj\Debug\advirtisementroteted.csprojResolveAssemblyReference.cache
+c:\users\alamin\documents\visual studio 2013\Projects\advirtisementroteted\advirtisementroteted\obj\Debug\advirtisementroteted.dll
+c:\users\alamin\documents\visual studio 2013\Projects\advirtisementroteted\advirtisementroteted\obj\Debug\advirtisementroteted.pdb

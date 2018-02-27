@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/image/facebook.png</ImageUrl>
+    <NavigateUrl>http://www.facebook.com</NavigateUrl>
+    <AlternateText>Ad for Contoso, Ltd. Web site</AlternateText>
+    <Impressions>10</Impressions>
+    <Keyword>facebook</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/image/logo.png</ImageUrl>
+    <NavigateUrl>http://www.bdjobs.com</NavigateUrl>
+    <AlternateText>Ad for ASP.NET Web site</AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>bdjobs</Keyword>
+
+  </Ad>
+  <Ad>
+    <ImageUrl>~/image/Google.png</ImageUrl>
+    <NavigateUrl>http://www.google/com</NavigateUrl>
+    <AlternateText>googlle site </AlternateText>
+    <Impressions>30</Impressions>
+    <Keyword>Google</Keyword>
+  </Ad>
+  
+</Advertisements>
