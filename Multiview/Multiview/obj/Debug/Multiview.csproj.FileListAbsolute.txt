@@ -1,0 +1,6 @@
+c:\users\alamin\documents\visual studio 2013\Projects\Multiview\Multiview\bin\Multiview.dll.config
+c:\users\alamin\documents\visual studio 2013\Projects\Multiview\Multiview\bin\Multiview.dll
+c:\users\alamin\documents\visual studio 2013\Projects\Multiview\Multiview\bin\Multiview.pdb
+c:\users\alamin\documents\visual studio 2013\Projects\Multiview\Multiview\obj\Debug\Multiview.csprojResolveAssemblyReference.cache
+c:\users\alamin\documents\visual studio 2013\Projects\Multiview\Multiview\obj\Debug\Multiview.dll
+c:\users\alamin\documents\visual studio 2013\Projects\Multiview\Multiview\obj\Debug\Multiview.pdb
