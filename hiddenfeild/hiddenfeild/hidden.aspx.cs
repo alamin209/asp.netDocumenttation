@@ -12,10 +12,15 @@ namespace hiddenfeild
 {
     public partial class hidden : System.Web.UI.Page
     {
+       
+     
         protected void Page_Load(object sender, EventArgs e)
         {
+          
              if (!IsPostBack)
             {
+       
+
                 gatemploy();
             
             }
@@ -94,7 +99,12 @@ namespace hiddenfeild
 
         protected void Button2_Click(object sender, EventArgs e)
         {
-            //gatemploy();
+            gatemploy();
+        }
+
+        protected void Button2_Click1(object sender, EventArgs e)
+        {
+            gatemploy();
         }
     }
 }

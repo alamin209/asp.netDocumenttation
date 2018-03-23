@@ -45,7 +45,7 @@
               
                 <td>
                     <asp:Button ID="Button1" runat="server" Text="Update" OnClick="Button1_Click1" />
-                    <asp:Button ID="Button2" runat="server" Text="Load" />
+                    <asp:Button ID="Button2" runat="server" Text="Load" OnClick="Button2_Click1" style="height: 26px" />
                 </td>
                  <td>
                      &nbsp;</td>
