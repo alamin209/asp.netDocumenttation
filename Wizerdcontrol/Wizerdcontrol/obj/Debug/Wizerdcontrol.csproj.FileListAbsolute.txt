@@ -1,0 +1,6 @@
+C:\Users\alamin\Documents\Visual Studio 2013\Projects\Wizerdcontrol\Wizerdcontrol\bin\Wizerdcontrol.dll.config
+C:\Users\alamin\Documents\Visual Studio 2013\Projects\Wizerdcontrol\Wizerdcontrol\bin\Wizerdcontrol.dll
+C:\Users\alamin\Documents\Visual Studio 2013\Projects\Wizerdcontrol\Wizerdcontrol\bin\Wizerdcontrol.pdb
+C:\Users\alamin\Documents\Visual Studio 2013\Projects\Wizerdcontrol\Wizerdcontrol\obj\Debug\Wizerdcontrol.csprojResolveAssemblyReference.cache
+C:\Users\alamin\Documents\Visual Studio 2013\Projects\Wizerdcontrol\Wizerdcontrol\obj\Debug\Wizerdcontrol.dll
+C:\Users\alamin\Documents\Visual Studio 2013\Projects\Wizerdcontrol\Wizerdcontrol\obj\Debug\Wizerdcontrol.pdb
