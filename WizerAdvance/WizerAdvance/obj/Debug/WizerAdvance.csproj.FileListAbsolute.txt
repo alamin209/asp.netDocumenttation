@@ -1,0 +1,6 @@
+c:\users\alamin\documents\visual studio 2013\Projects\WizerAdvance\WizerAdvance\bin\WizerAdvance.dll.config
+c:\users\alamin\documents\visual studio 2013\Projects\WizerAdvance\WizerAdvance\bin\WizerAdvance.dll
+c:\users\alamin\documents\visual studio 2013\Projects\WizerAdvance\WizerAdvance\bin\WizerAdvance.pdb
+c:\users\alamin\documents\visual studio 2013\Projects\WizerAdvance\WizerAdvance\obj\Debug\WizerAdvance.csprojResolveAssemblyReference.cache
+c:\users\alamin\documents\visual studio 2013\Projects\WizerAdvance\WizerAdvance\obj\Debug\WizerAdvance.dll
+c:\users\alamin\documents\visual studio 2013\Projects\WizerAdvance\WizerAdvance\obj\Debug\WizerAdvance.pdb
