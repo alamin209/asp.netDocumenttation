@@ -1,0 +1,6 @@
+c:\users\alamin\documents\visual studio 2013\Projects\admin_panel\admin_panel\bin\admin_panel.dll.config
+c:\users\alamin\documents\visual studio 2013\Projects\admin_panel\admin_panel\bin\admin_panel.dll
+c:\users\alamin\documents\visual studio 2013\Projects\admin_panel\admin_panel\bin\admin_panel.pdb
+c:\users\alamin\documents\visual studio 2013\Projects\admin_panel\admin_panel\obj\Debug\admin_panel.csprojResolveAssemblyReference.cache
+c:\users\alamin\documents\visual studio 2013\Projects\admin_panel\admin_panel\obj\Debug\admin_panel.dll
+c:\users\alamin\documents\visual studio 2013\Projects\admin_panel\admin_panel\obj\Debug\admin_panel.pdb
