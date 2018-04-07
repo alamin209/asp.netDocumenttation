@@ -1,0 +1,6 @@
+c:\users\alamin\documents\visual studio 2013\Projects\ado.netpart1\ado.netpart1\bin\ado.netpart1.dll.config
+c:\users\alamin\documents\visual studio 2013\Projects\ado.netpart1\ado.netpart1\bin\ado.netpart1.dll
+c:\users\alamin\documents\visual studio 2013\Projects\ado.netpart1\ado.netpart1\bin\ado.netpart1.pdb
+c:\users\alamin\documents\visual studio 2013\Projects\ado.netpart1\ado.netpart1\obj\Debug\ado.netpart1.csprojResolveAssemblyReference.cache
+c:\users\alamin\documents\visual studio 2013\Projects\ado.netpart1\ado.netpart1\obj\Debug\ado.netpart1.dll
+c:\users\alamin\documents\visual studio 2013\Projects\ado.netpart1\ado.netpart1\obj\Debug\ado.netpart1.pdb
