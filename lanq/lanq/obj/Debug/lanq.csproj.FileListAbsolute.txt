@@ -1,0 +1,6 @@
+c:\users\alamin\documents\visual studio 2013\Projects\lanq\lanq\bin\lanq.dll.config
+c:\users\alamin\documents\visual studio 2013\Projects\lanq\lanq\bin\lanq.dll
+c:\users\alamin\documents\visual studio 2013\Projects\lanq\lanq\bin\lanq.pdb
+c:\users\alamin\documents\visual studio 2013\Projects\lanq\lanq\obj\Debug\lanq.csprojResolveAssemblyReference.cache
+c:\users\alamin\documents\visual studio 2013\Projects\lanq\lanq\obj\Debug\lanq.dll
+c:\users\alamin\documents\visual studio 2013\Projects\lanq\lanq\obj\Debug\lanq.pdb

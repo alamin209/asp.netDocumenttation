@@ -4,3 +4,9 @@ c:\users\alamin\documents\visual studio 2013\Projects\Bulledasp.net\Bulledasp.ne
 c:\users\alamin\documents\visual studio 2013\Projects\Bulledasp.net\Bulledasp.net\obj\Debug\Bulledasp.net.csprojResolveAssemblyReference.cache
 c:\users\alamin\documents\visual studio 2013\Projects\Bulledasp.net\Bulledasp.net\obj\Debug\Bulledasp.net.dll
 c:\users\alamin\documents\visual studio 2013\Projects\Bulledasp.net\Bulledasp.net\obj\Debug\Bulledasp.net.pdb
+C:\Users\alamin\Documents\Visual Studio 2013\Projects\asp.netDocumenttation\Bulledasp.net\Bulledasp.net\bin\Bulledasp.net.dll.config
+C:\Users\alamin\Documents\Visual Studio 2013\Projects\asp.netDocumenttation\Bulledasp.net\Bulledasp.net\bin\Bulledasp.net.dll
+C:\Users\alamin\Documents\Visual Studio 2013\Projects\asp.netDocumenttation\Bulledasp.net\Bulledasp.net\bin\Bulledasp.net.pdb
+C:\Users\alamin\Documents\Visual Studio 2013\Projects\asp.netDocumenttation\Bulledasp.net\Bulledasp.net\obj\Debug\Bulledasp.net.csprojResolveAssemblyReference.cache
+C:\Users\alamin\Documents\Visual Studio 2013\Projects\asp.netDocumenttation\Bulledasp.net\Bulledasp.net\obj\Debug\Bulledasp.net.dll
+C:\Users\alamin\Documents\Visual Studio 2013\Projects\asp.netDocumenttation\Bulledasp.net\Bulledasp.net\obj\Debug\Bulledasp.net.pdb
