@@ -1,0 +1,6 @@
+c:\users\alamin\documents\visual studio 2013\Projects\panelcontrol42\panelcontrol42\bin\panelcontrol42.dll.config
+c:\users\alamin\documents\visual studio 2013\Projects\panelcontrol42\panelcontrol42\bin\panelcontrol42.dll
+c:\users\alamin\documents\visual studio 2013\Projects\panelcontrol42\panelcontrol42\bin\panelcontrol42.pdb
+c:\users\alamin\documents\visual studio 2013\Projects\panelcontrol42\panelcontrol42\obj\Debug\panelcontrol42.csprojResolveAssemblyReference.cache
+c:\users\alamin\documents\visual studio 2013\Projects\panelcontrol42\panelcontrol42\obj\Debug\panelcontrol42.dll
+c:\users\alamin\documents\visual studio 2013\Projects\panelcontrol42\panelcontrol42\obj\Debug\panelcontrol42.pdb
